@@ -18,7 +18,7 @@ To practice object oriented programming (OOP), you're going to create a Person c
 
 ## Instructions
 - First you need to create a person class that is initialized with a name that cannot be changed.
-- Each instance of class `Person`should be able to remember their name
+- Each instance of class `Person` should be able to remember their name
 - Each instance of  class `Person` should start with $25 in their bank accounts
 - Each instance of  class `Person` should start with eight happiness points
 - Each instance of  class `Person` should start with eight hygiene points
@@ -41,7 +41,3 @@ To practice object oriented programming (OOP), you're going to create a Person c
   * If the topic is politics, both people get sadder and the method returns "blah blah partisan blah lobbyist".
   * If the topic is weather, both people get a little happier and the method returns "blah blah sun blah rain".
   * If the topic is not politics or weather, their happiness points don't change and the method returns "blah blah blah blah blah".
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-person' title='OO Person'>OO Person</a> on Learn.co and start learning to code for free.</p>
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-person'>Oo Person</a> on Learn.co and start learning to code for free.</p>
